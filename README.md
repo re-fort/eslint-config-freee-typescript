@@ -1,2 +1,3 @@
-# eslint-config-freee
-Shared configuration for JavaScript/TypeScript in freee.
+# eslint-config-freee-typescript
+
+Shared configuration for TypeScript in freee.
