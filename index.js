@@ -28,9 +28,7 @@ module.exports = {
     '@typescript-eslint/consistent-type-definitions': ['error', 'type'],
     '@typescript-eslint/prefer-interface': 'off',
     '@typescript-eslint/explicit-member-accessibility': 'off',
-    '@typescript-eslint/camelcase': ['error', { properties: 'never' }],
-    'import/no-named-as-default': 'off',
-    'import/no-named-as-default-member': 'off'
+    '@typescript-eslint/camelcase': ['error', { properties: 'never' }]
   },
   settings: {
     'import/resolver': { typescript: {} },
