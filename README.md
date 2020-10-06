@@ -15,7 +15,7 @@ yarn add eslint-config-freee-typescript -D -E
 Then add it to your `.eslintrc.js`
 
 ```js
-module.exprots = {
+module.exports = {
   extends: ['eslint-config-freee-typescript']
 };
 ```
