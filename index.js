@@ -61,6 +61,7 @@ module.exports = {
         format: ['PascalCase']
       }
     ],
+    'react/prop-types': 'off', // @see https://github.com/yannickcr/eslint-plugin-react/issues/2353
     'react-hooks/rules-of-hooks': 'error',
     'react-hooks/exhaustive-deps': 'warn'
   },
